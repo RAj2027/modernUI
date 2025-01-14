@@ -7,17 +7,17 @@ body {
 
 @font-face {
     font-family: valorax;
-    src: url(/Valorax-lg25V.otf);
+    src: url(./Valorax-lg25V.otf);
 }
 
 @font-face {
     font-family: cindiemono;
-    src: url(/CindieMono-D.otf);
+    src: url(./CindieMono-D.otf);
 }
 
 @font-face {
     font-family: japanese;
-    src: url(/Japanese\ 3017.ttf);
+    src: url(./Japanese\ 3017.ttf);
 }
 
 .box {
